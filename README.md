@@ -1,4 +1,4 @@
-AI Speaking Coach: PRD and 4-Week Build Plan
+AI Speaking Coach
 
 A web app where users hold a spoken conversation with an animated AI coach who talks back with lip-sync, then receive specific, kind, actionable feedback on grammar, pronunciation, fluency, and vocabulary.
 Why it exists: Many people understand English but freeze when speaking. Human tutors are expensive and awkward to schedule, and existing apps are mostly text or multiple-choice. People need a safe place to talk out loud, make mistakes, and get honest feedback.
